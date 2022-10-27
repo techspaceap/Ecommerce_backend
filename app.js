@@ -22,7 +22,7 @@ function init() {
             description: "This category contains electrical appliances"
         },
         {
-            name: "Vegetables",
+            name: "Vegetabes",
             description: "This category contains vegetables"
         },
     ]
