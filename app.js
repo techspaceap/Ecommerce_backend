@@ -18,7 +18,7 @@ function init() {
     })
     var categoriesData = [
         {
-            name: "Electronics1",
+            name: "Electron",
             description: "This category contains electrical appliances"
         },
         {
